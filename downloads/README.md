@@ -1,7 +1,7 @@
 How to download:
   1) Find the latest version of the skin you want
   2) Click on it
-  3) Click `View Raw`
+  3) Click `View Raw` or `download`
   4) That's it, you should be done!
 
 
